@@ -3,3 +3,4 @@
 Fast merge your excel files 
 
 ## Try this app
+https://file-merger-app.streamlit.app/
